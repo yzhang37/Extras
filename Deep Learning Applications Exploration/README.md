@@ -7,7 +7,7 @@ This repository lists all the documentation of the algorithms and projects I wor
   
   * Imported the famous VGG19 model, and basing on specific input data, finetuneed the network structures and parameters for different style results.
   
-    ![CS523_Style Transfer](CS523_Style Transfer.webp)
+    ![CS523_Style Transfer](CS523_Style_Transfer.webp)
   
 * [**Bias and GANs**](./CS523_HW4_Bias_n_GANs.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yzhang37/Extras/blob/main/Deep%20Learning%20Applications%20Exploration/CS523_HW4_Bias_n_GANs.ipynb)
   
