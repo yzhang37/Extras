@@ -21,8 +21,8 @@ This repository lists all the documentation of the algorithms and projects I wor
 
 * - Cartpole games (Discrete action spaces) with the DQN algorithm
 
-    <img src="http://ai.bu.edu/DL523/HW5_files/cartpole_random_demo.gif" width="360em">
+    <img src="http://ai.bu.edu/DL523/HW5_files/cartpole_random_demo.gif" height="200px">
 
 * - Pendulum games (Continuous action spaces) with DDPG algorithm.
 
-    <img src="http://ai.bu.edu/DL523/HW5_files/pendulum_demo.gif" width="360em">
+    <img src="http://ai.bu.edu/DL523/HW5_files/pendulum_demo.gif" height="200px">
