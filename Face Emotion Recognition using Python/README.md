@@ -1,8 +1,10 @@
 # Face Emotion Recognition using Python
 
+[Original Paper](./JiangZhengLi_FaceRecognition.pdf) | [Presentation Video](./Option1_JiangZhengLi.mp4)
+
 #### Team members (In order of last name):
 
-- **Lanqi Li **
+- **Lanqi Li**
 
 - **Lingyan Jiang**
 - **Zhenghang Yin**
@@ -43,6 +45,10 @@ The pseduo-code of the project is similar to the following:
 <img src="./assets/algorithm.svg" alt="pseduo-code algorithm" style="zoom:150%;" />
 
 Here are some of the emotional analysis we made using this model.
+
+![Emotional Test 1](./assets/test_1.gif)
+
+![Emotional Test 2](./assets/test_2.gif)
 
 # Experiments and Results
 
