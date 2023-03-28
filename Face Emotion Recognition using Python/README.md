@@ -1,6 +1,10 @@
 # Face Emotion Recognition using Python
 
-[📖Original Paper](./JiangZhengLi_FaceRecognition.pdf) | [▶️Presentation Video](./Option1_JiangZhengLi.mp4)
+[📖Original Paper](./JiangZhengLi_FaceRecognition.pdf)
+
+
+https://user-images.githubusercontent.com/17313035/228132437-c0875e4d-071b-4046-a419-e76641eb3958.mp4
+
 
 #### Team members (In order of last name):
 
